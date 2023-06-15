@@ -3,6 +3,7 @@
 
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
+	char str;
+	puts(str, "\"Programming is like building a multilingual puzzle");
 	return (0);
 }
