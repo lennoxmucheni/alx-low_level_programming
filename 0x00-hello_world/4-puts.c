@@ -3,7 +3,6 @@
 /**
 * main - Entry point
 * Description: 'Using puts in place of printf'
-* @parameter: puts
 * Return: Always 0 (Success)
 */
 
