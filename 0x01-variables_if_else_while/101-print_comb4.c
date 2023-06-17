@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 * main - Entry point
-* Description: 'Print all possible combinations of two digit nos'
+* Description: 'Print all possible combinations of three digit nos'
 * Return: Always 0 (Success)
 */
 int main(void)
