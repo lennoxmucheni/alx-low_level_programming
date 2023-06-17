@@ -1,4 +1,4 @@
-#include <sdtdio.h>
+#include <stdio.h>
 /**
 * main - Entry point
 * Description: 'Display single digit nos of base 10'
