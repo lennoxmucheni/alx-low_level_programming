@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 * main - Entry point
-* Description: 'Print all possible combinations of single digit nos'
+* Description: 'Print all possible combinations of two digit nos'
 * Return: Always 0 (Success)
 */
 int main(void)
@@ -11,7 +11,7 @@ int main(void)
 
 	for (firstDigit = 0; firstDigit < 9; firstDigit++)
 	{
-		for (secondDigit = firstDigit + 1; secondDigit <= 9; secondDigit++) 
+		for (secondDigit = firstDigit + 1; secondDigit <= 9; secondDigit++)
 		{
 			putchar(firstDigit + '0');
 			putchar(secondDigit + '0');
