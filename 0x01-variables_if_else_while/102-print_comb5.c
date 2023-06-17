@@ -9,7 +9,7 @@ int main(void)
 	int firstNumber;
 	int secondNumber;
 
-	for (firstNumber = 0; firstNumber <= 99; firstNumber++)
+	for (firstNumber = 0; firstNumber <= 98; firstNumber++)
 	{
 		for (secondNumber = firstNumber; secondNumber <= 99; secondNumber++)
 		{
@@ -27,7 +27,7 @@ int main(void)
 		}
 	}
 
-    putchar('\n');
+	putchar('\n');
 
-    return (0);
+	return (0);
 }
