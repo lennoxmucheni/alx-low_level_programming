@@ -13,19 +13,19 @@ int main(void)
 	{
 		for (secondNumber = firstNumber; secondNumber <= 99; secondNumber++)
 		{
-            putchar((firstNumber / 10) + '0');
-            putchar((firstNumber % 10) + '0');
-            putchar(' ');
-            putchar((secondNumber / 10) + '0');
-            putchar((secondNumber % 10) + '0');
+			putchar((firstNumber / 10) + '0');
+			putchar((firstNumber % 10) + '0');
+			putchar(' ');
+			putchar((secondNumber / 10) + '0');
+			putchar((secondNumber % 10) + '0');
 
-            if (firstNumber != 99 || secondNumber != 99)
-            {
-                putchar(',');
-                putchar(' ');
-            }
-        }
-    }
+			if (firstNumber != 99 || secondNumber != 99)
+			{
+				putchar(',');
+				putchar(' ');
+			}
+		}
+	}
 
     putchar('\n');
 
