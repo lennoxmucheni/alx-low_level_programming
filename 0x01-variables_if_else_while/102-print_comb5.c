@@ -11,7 +11,7 @@ int main(void)
 
 	for (firstNumber = 0; firstNumber <= 98; firstNumber++)
 	{
-		for (secondNumber = firstNumber; secondNumber <= 99; secondNumber++)
+		for (secondNumber = firstNumber + 1; secondNumber <= 99; secondNumber++)
 		{
 			putchar((firstNumber / 10) + '0');
 			putchar((firstNumber % 10) + '0');
