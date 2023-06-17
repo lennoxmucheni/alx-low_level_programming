@@ -19,7 +19,7 @@ int main(void)
 			putchar((secondNumber / 10) + '0');
 			putchar((secondNumber % 10) + '0');
 
-			if (firstNumber != 99 || secondNumber != 99)
+			if (firstNumber != 98 || secondNumber != 99)
 			{
 				putchar(',');
 				putchar(' ');
