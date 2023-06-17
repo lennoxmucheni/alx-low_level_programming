@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 * main - Entry point
-* Description: 'Print alphabets in reverse'
+* Description: 'Print base16 digits ascending'
 * Return: Always 0 (Success)
 */
 int main(void)

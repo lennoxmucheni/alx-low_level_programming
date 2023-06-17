@@ -1,5 +1,9 @@
 #include <stdio.h>
-
+/**
+* main - Entry point
+* Description: 'Print all possible combinations of single digit nos'
+* Return: Always 0 (Success)
+*/
 int main(void)
 {
 	int number;
