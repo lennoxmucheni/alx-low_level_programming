@@ -1,9 +1,13 @@
-#include "main.h"
 /**
- * main - prints the alphabet in lowercase, followed by a new line.
- * Return: Always 0 (success)
+ * File: 1-alphabet,c
+ * Author: Lennox Mucheni 
  */
 
+#include "main.h"
+
+/**
+ * print_alphabet - prints the alphabet in lowercase, followed by a new line.
+ */
 void print_alphabet(void)
 {
 	char letter;
