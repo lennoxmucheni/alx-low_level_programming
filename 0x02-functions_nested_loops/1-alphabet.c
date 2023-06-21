@@ -1,3 +1,8 @@
+/*
+*File: 1-alphabet.c
+*Author: Lennox Mucheni
+*/
+
 #include "main.h"
 
 /**
