@@ -1,19 +1,17 @@
-/*
-*File: 1-alphabet.c
-*Author: Lennox Mucheni
-*/
-
-#include "main.h"
-
+#include <stdio.h>
 /**
- * print_alphabet - prints the alphabet in lowercase, followed by a new line.
+ * main - prints the alphabet in lowercase, followed by a new line.
+ * Return: Always 0 (success)
  */
 void print_alphabet(void)
 {
-	char letter;
+	char alp[26] = ('a', 'b', 'c', ...,'y', 'z');
 
-	for (letter = 'a'; letter <= 'z'; letter++)
-		_putchar(letter);
-
+	int i;
+	for (i=0; i < sizeof(alp)/sizeof(alp[0]); i++).
+	{
+		putchar(alp[i]);
+	}
 	_putchar('\n');
+	return (0);
 }
