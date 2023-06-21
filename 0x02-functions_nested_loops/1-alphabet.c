@@ -5,8 +5,8 @@
 
 #include "main.h"
 
-/*
- * Description: 'prints the alphabets in lowercase.'
+/**
+ * print_alphabet: 'prints the alphabets in lowercase.'
  */
 
 void print_alphabet(void)
