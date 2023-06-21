@@ -1,12 +1,12 @@
-/**
+/*
  * File: 1-alphabet,c
- * Author: Lennox Mucheni 
+ * Author: Lennox Mucheni
  */
 
 #include "main.h"
 
-/**
- * print_alphabet - prints the alphabet in lowercase, followed by a new line.
+/*
+ * 1_alphabet - prints the alphabet in lowercase, followed by a new line.
  */
 void print_alphabet(void)
 {
