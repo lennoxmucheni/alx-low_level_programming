@@ -1,9 +1,14 @@
-#include "main.h"
 /*
 * File: 0-putchar.c
 * Author: Lennox Mucheni
 * Description: 'Print _putchar, followed by a new line'
 * Return: Always 0 (Success)
+*/
+
+#include "main.h"
+
+/**
+* main - Prints "_putchar" followed by a new line.
 */
 
 int main(void)
