@@ -5,7 +5,7 @@
  * File: main.h
  * Author: Lennox Mucheni
  * Description: Header file containing prototypes for all functions
- *       used in the 0x08-recursion directory.
+ *       used in the 0x09-static libraries directory.
  */
 
 int _putchar(char c);
