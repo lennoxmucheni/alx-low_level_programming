@@ -1,12 +1,12 @@
 /*
- * File: _isalpha.c
+ * File: 4-isalpha.c
  * Author: Lennox Mucheni
  */
 
 #include "main.h"
 
 /**
- * _isalpha - Checks if a character is alphabetic.
+ * 4-isalpha - Checks if a character is alphabetic.
  * @c: The character to be checked.
  *
  * Return: 1 if character is letter, lowercase or uppercase, 0 otherwise.
